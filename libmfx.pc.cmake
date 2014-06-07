@@ -5,7 +5,7 @@ includedir=${prefix}/include
 
 Name: libmfx
 Description: Intel Media SDK Dispatched static library
-Version: 2013
+Version: 2014 R2
 Requires:
 Requires.private:
 Conflicts:

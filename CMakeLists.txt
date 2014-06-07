@@ -24,6 +24,8 @@ set(SOURCES
   src/mfx_library_iterator_linux.cpp
   src/mfx_load_dll.cpp
   src/mfx_load_dll_linux.cpp
+  src/mfx_load_plugin.cpp
+  src/mfx_plugin_hive.cpp
   src/mfx_win_reg_key.cpp
 )
 
